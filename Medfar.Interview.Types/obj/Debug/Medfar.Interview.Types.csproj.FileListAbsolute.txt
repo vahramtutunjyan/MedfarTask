@@ -1,0 +1,6 @@
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\bin\Debug\Medfar.Interview.Types.dll
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\bin\Debug\Medfar.Interview.Types.pdb
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.csproj.CoreCompileInputs.cache
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.dll
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.pdb
+C:\Users\Vahram\Desktop\Vahram-Tutunjyan\MVC\Medfar.Interview.Types\obj\Debug\Medfar.Interview.Types.csproj.AssemblyReference.cache
